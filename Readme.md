@@ -18,4 +18,5 @@
 ## 29/10/26 Workflows, testes e funcionalidades
 ## 31/10/26 funcionalidades da tela agendamento 
 # Novembro/2026
-## 03/11/26 Ajustes Finais Worflows    
+## 03/11/26 Ajustes Finais Worflows
+## 10/11/26 Histórico Github
