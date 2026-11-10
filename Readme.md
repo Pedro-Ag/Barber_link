@@ -10,4 +10,5 @@
 ## 11/10/26 Workflow barbeiros b1.
 ## 12/10/26 Workflows b1.
 ## 14/10/26 Workflow b1.
-## 15/10/26 Workflow b1.   
+## 15/10/26 Workflow b1.
+## 16/10/26 Criação novos Workflows b1 e conclusão de outros.    
