@@ -8,4 +8,5 @@
 ## 04/10/26 ajuste tela pesquisa e arquitetura de botões.
 ## 10/10/26 Desenvolvimento worflow B1.
 ## 11/10/26 Workflow barbeiros b1.
-## 12/10/26 Workflows b1.   
+## 12/10/26 Workflows b1.
+## 14/10/26 Workflow b1.   
