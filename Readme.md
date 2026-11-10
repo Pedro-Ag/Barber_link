@@ -15,4 +15,5 @@
 ## 20/10/26 Banco de dados e Workflow b1.
 ## 22/10/26 Criação workflows b1.
 ## 27/10/26 Criação tela de agendamentos
-## 29/10/26 Workflows, testes e funcionalidades     
+## 29/10/26 Workflows, testes e funcionalidades
+## 31/10/26 funcionalidades da tela agendamento     
