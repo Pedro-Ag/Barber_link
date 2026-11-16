@@ -2,9 +2,9 @@
 ## BarberLink é um aplicativo que conecta clientes e barbearias de forma rápida e inteligente. Pelo app, o usuário cria sua conta, encontra os estabelecimentos mais próximos via geolocalização ou busca pelo nome, escolhe os serviços desejados e agenda o horário ideal. Para as barbearias, a plataforma funciona como uma vitrine digital, permitindo cadastrar o negócio para atrair novos clientes e ampliar seu alcance na região.
 # Colaboradores:
 ## Pedro Augusto / RA: 271227
-## João Rocha / RA: 
-## Carlos Eduardo / RA:
-## Marcos Antônio / RA:
+## João Rocha / RA: 305243
+## Carlos Eduardo / RA: 263041
+## Marcos Antônio / RA: 265693
 # Setembro/2026
 ## 08/09/2026 Criação das telas index, Login e Cadastro.
 ## 17/09/2026 Design tela pesquisa e criação dos workflows.
